@@ -1,18 +1,18 @@
 [
   {
-    "package": "ess",
-    "oncran": true
-  },
-  {
     "package": "jti",
     "oncran": true
   },
   {
-    "package": "molic",
+    "package": "sparta",
     "oncran": true
   },
   {
-    "package": "sparta",
+    "package": "ess",
+    "oncran": true
+  },
+  {
+    "package": "molic",
     "oncran": true
   }
 ]
