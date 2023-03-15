@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "jti"]
-	path = jti
-	url = https://github.com/mlindsk/jti
-	shallow = true
-	registered = true
-[submodule "sparta"]
-	path = sparta
-	url = https://github.com/mlindsk/sparta
-	shallow = true
-	registered = true
 [submodule "ess"]
 	path = ess
 	url = https://github.com/mlindsk/ess
 	shallow = true
 	registered = true
+[submodule "jti"]
+	path = jti
+	url = https://github.com/mlindsk/jti
+	shallow = true
+	registered = true
 [submodule "molic"]
 	path = molic
 	url = https://github.com/mlindsk/molic
+	shallow = true
+	registered = true
+[submodule "sparta"]
+	path = sparta
+	url = https://github.com/mlindsk/sparta
 	shallow = true
 	registered = true
