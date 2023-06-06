@@ -13,11 +13,6 @@
 	url = https://github.com/mlindsk/jti
 	shallow = true
 	registered = true
-[submodule "molic"]
-	path = molic
-	url = https://github.com/mlindsk/molic
-	shallow = true
-	registered = true
 [submodule "sparta"]
 	path = sparta
 	url = https://github.com/mlindsk/sparta
